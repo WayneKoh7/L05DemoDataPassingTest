@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Data Passing Test</string>
+    <string name="passint">Pass integer value to 2nd activity</string>
+    <string name="passchar">Pass character value to 2nd activity</string>
+</resources>
